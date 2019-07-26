@@ -22,10 +22,10 @@ return outcome
 }
 
 function dec(n){
-  var outcome=  n--
+  var outcome = n--
   return outcome
 }
 
 function makeInt(n){
-  return parseInt(n,10)
+  return parseInt(n, 10)
 }
