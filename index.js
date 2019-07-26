@@ -17,13 +17,11 @@ function divide(a,b){
 }
 
 function inc(n){
-  n++
 var outcome= n++;
 return outcome
 }
 
 function dec(n){
-  n--
   var outcome=  n--
   return outcome
 }
