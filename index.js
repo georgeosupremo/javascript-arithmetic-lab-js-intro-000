@@ -23,6 +23,7 @@ return outcome
 }
 
 function dec(n){
+  n--
   return n--
 }
 
