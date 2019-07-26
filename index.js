@@ -24,8 +24,7 @@ return outcome
 
 function dec(n){
   n--
-  var outcome = n--
-  return outcome
+  return n--
 }
 
 function makeInt(n){
